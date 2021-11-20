@@ -8,7 +8,7 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost:8080/shareposts');
+  define('URLROOT', 'http://localhost:8080/posts-network-app');
   // Site Name
   define('SITENAME', 'SharePosts');
   // App Version
